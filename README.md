@@ -2,8 +2,10 @@
 Building a tomogotchi in Ruby.
 
 ## Project
+Create tomogotchi game in ruby.
 
 ## Objective
+User should be able to feed and care for their tomogotchi pet.
 
 ##Installation
 Clone the following repository: 
